@@ -1,199 +1,199 @@
 fileFormatVersion: 2
-guid: d90d7a221c51b3d47a20a1c27617d7c6
+guid: d3df8c8b3a27b8b44a8117d2f0e38800
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6342241245146142518
-    second: HumanBaseIdle_0
+      213: 5717584393450056696
+    second: OrcBaseIdle_0
   - first:
-      213: -770472589482978312
-    second: HumanBaseIdle_1
+      213: 8036290580475782788
+    second: OrcBaseIdle_1
   - first:
-      213: 1908627036525098482
-    second: HumanBaseIdle_2
+      213: -6075310416523940504
+    second: OrcBaseIdle_2
   - first:
-      213: 2175878356331681948
-    second: HumanBaseIdle_3
+      213: -1718724041880390511
+    second: OrcBaseIdle_3
   - first:
-      213: -7872046342331562017
-    second: HumanBaseIdle_4
+      213: -7552264916850868914
+    second: OrcBaseIdle_4
   - first:
-      213: 6283507365512936098
-    second: HumanBaseIdle_5
+      213: 1192743203919900083
+    second: OrcBaseIdle_5
   - first:
-      213: 5190879868320599037
-    second: HumanBaseIdle_6
+      213: 2678255166240876931
+    second: OrcBaseIdle_6
   - first:
-      213: 8674635101223977613
-    second: HumanBaseIdle_7
+      213: -5751026311993138640
+    second: OrcBaseIdle_7
   - first:
-      213: 7016987132926739152
-    second: HumanBaseIdle_8
+      213: 8487289639555340448
+    second: OrcBaseIdle_8
   - first:
-      213: -2302843064115498674
-    second: HumanBaseIdle_9
+      213: -262612338531403044
+    second: OrcBaseIdle_9
   - first:
-      213: 8888511969783849704
-    second: HumanBaseIdle_10
+      213: 29643515174925299
+    second: OrcBaseIdle_10
   - first:
-      213: -7502646285006093646
-    second: HumanBaseIdle_11
+      213: 4050839375062998818
+    second: OrcBaseIdle_11
   - first:
-      213: -93259774486691634
-    second: HumanBaseIdle_12
+      213: -8620208044091911152
+    second: OrcBaseIdle_12
   - first:
-      213: 1660653326771732433
-    second: HumanBaseIdle_13
+      213: 5399261295478812705
+    second: OrcBaseIdle_13
   - first:
-      213: -5041437241646926939
-    second: HumanBaseIdle_14
+      213: 8266346290578771504
+    second: OrcBaseIdle_14
   - first:
-      213: 4306899920230208365
-    second: HumanBaseIdle_15
+      213: -892589645532556037
+    second: OrcBaseIdle_15
   - first:
-      213: -8756762318418744662
-    second: HumanBaseIdle_16
+      213: -8103824365403274220
+    second: OrcBaseIdle_16
   - first:
-      213: 6903953976657996253
-    second: HumanBaseIdle_17
+      213: 5044924229776873052
+    second: OrcBaseIdle_17
   - first:
-      213: 4952074518484486189
-    second: HumanBaseIdle_18
+      213: 5719576846334713001
+    second: OrcBaseIdle_18
   - first:
-      213: -3352625538029024568
-    second: HumanBaseIdle_19
+      213: -900316634178524223
+    second: OrcBaseIdle_19
   - first:
-      213: -3593955991264966370
-    second: HumanBaseIdle_20
+      213: -7749980266992972274
+    second: OrcBaseIdle_20
   - first:
-      213: 1717363481058440509
-    second: HumanBaseIdle_21
+      213: -7789894702351521517
+    second: OrcBaseIdle_21
   - first:
-      213: -8609660454204824653
-    second: HumanBaseIdle_22
+      213: -1159329589549419507
+    second: OrcBaseIdle_22
   - first:
-      213: 865826909533505330
-    second: HumanBaseIdle_23
+      213: 1838860512847873853
+    second: OrcBaseIdle_23
   - first:
-      213: -7159340877666459763
-    second: HumanBaseIdle_24
+      213: -7859095764965124947
+    second: OrcBaseIdle_24
   - first:
-      213: -3176525646278720378
-    second: HumanBaseIdle_25
+      213: 8670525833754539897
+    second: OrcBaseIdle_25
   - first:
-      213: -3466789251680027389
-    second: HumanBaseIdle_26
+      213: 6483123373678834648
+    second: OrcBaseIdle_26
   - first:
-      213: 7079907782189658174
-    second: HumanBaseIdle_27
+      213: -4325730010255943439
+    second: OrcBaseIdle_27
   - first:
-      213: 5570813509476300240
-    second: HumanBaseIdle_28
+      213: -266825668020131086
+    second: OrcBaseIdle_28
   - first:
-      213: -5321092489658436932
-    second: HumanBaseIdle_29
+      213: 115507915926241170
+    second: OrcBaseIdle_29
   - first:
-      213: -3087050842608462256
-    second: HumanBaseIdle_30
+      213: 4896560822865507143
+    second: OrcBaseIdle_30
   - first:
-      213: 4390806881872372422
-    second: HumanBaseIdle_31
+      213: 6847372049720871941
+    second: OrcBaseIdle_31
   - first:
-      213: 7747780825725610360
-    second: HumanBaseIdle_32
+      213: 8288623382817047645
+    second: OrcBaseIdle_32
   - first:
-      213: 9064278223868069198
-    second: HumanBaseIdle_33
+      213: 6438163550838505234
+    second: OrcBaseIdle_33
   - first:
-      213: 7852983221563140199
-    second: HumanBaseIdle_34
+      213: -2869137006359025258
+    second: OrcBaseIdle_34
   - first:
-      213: -6163583350620036618
-    second: HumanBaseIdle_35
+      213: -6232291119345686236
+    second: OrcBaseIdle_35
   - first:
-      213: 8208478448578021798
-    second: HumanBaseIdle_36
+      213: 7727914201207082894
+    second: OrcBaseIdle_36
   - first:
-      213: -6445325980364303202
-    second: HumanBaseIdle_37
+      213: -8526103530821700906
+    second: OrcBaseIdle_37
   - first:
-      213: 2443491123507492264
-    second: HumanBaseIdle_38
+      213: 1026455106457118017
+    second: OrcBaseIdle_38
   - first:
-      213: -2694820387148891916
-    second: HumanBaseIdle_39
+      213: 7498543408376803936
+    second: OrcBaseIdle_39
   - first:
-      213: -8587275168689281386
-    second: HumanBaseIdle_40
+      213: 7124151952666394300
+    second: OrcBaseIdle_40
   - first:
-      213: 9083700133097138257
-    second: HumanBaseIdle_41
+      213: 760457711714051092
+    second: OrcBaseIdle_41
   - first:
-      213: -3770730243572276213
-    second: HumanBaseIdle_42
+      213: -8372723739701223374
+    second: OrcBaseIdle_42
   - first:
-      213: 923327227223440025
-    second: HumanBaseIdle_43
+      213: 4020732786683871992
+    second: OrcBaseIdle_43
   - first:
-      213: 5112130879850894636
-    second: HumanBaseIdle_44
+      213: -7597684266959735860
+    second: OrcBaseIdle_44
   - first:
-      213: -1893115423540995035
-    second: HumanBaseIdle_45
+      213: -1013755374020276087
+    second: OrcBaseIdle_45
   - first:
-      213: 4660690695033702879
-    second: HumanBaseIdle_46
+      213: -8470299961544873306
+    second: OrcBaseIdle_46
   - first:
-      213: 1882656307682953899
-    second: HumanBaseIdle_47
+      213: -5461158681913815433
+    second: OrcBaseIdle_47
   - first:
-      213: 419124139827227813
-    second: HumanBaseIdle_48
+      213: 8664099980447622851
+    second: OrcBaseIdle_48
   - first:
-      213: 2708902632095967547
-    second: HumanBaseIdle_49
+      213: -515184814637997397
+    second: OrcBaseIdle_49
   - first:
-      213: 1790921881702938047
-    second: HumanBaseIdle_50
+      213: 2309622406218949616
+    second: OrcBaseIdle_50
   - first:
-      213: 4188320875282562649
-    second: HumanBaseIdle_51
+      213: -7992018756665474293
+    second: OrcBaseIdle_51
   - first:
-      213: 7388522709769042937
-    second: HumanBaseIdle_52
+      213: -3698053201241789320
+    second: OrcBaseIdle_52
   - first:
-      213: -7763941270650795734
-    second: HumanBaseIdle_53
+      213: -3321276977130594485
+    second: OrcBaseIdle_53
   - first:
-      213: 4105165682224866017
-    second: HumanBaseIdle_54
+      213: 2460871789120363207
+    second: OrcBaseIdle_54
   - first:
-      213: 7022410162938489873
-    second: HumanBaseIdle_55
+      213: 5927742950636272725
+    second: OrcBaseIdle_55
   - first:
-      213: -8892113984195849929
-    second: HumanBaseIdle_56
+      213: 5333652866440203510
+    second: OrcBaseIdle_56
   - first:
-      213: 7252630915306181759
-    second: HumanBaseIdle_57
+      213: 445201460286234113
+    second: OrcBaseIdle_57
   - first:
-      213: 5217204887336041826
-    second: HumanBaseIdle_58
+      213: 1761887683327326957
+    second: OrcBaseIdle_58
   - first:
-      213: -5185893495333117480
-    second: HumanBaseIdle_59
+      213: 3614532462968404040
+    second: OrcBaseIdle_59
   - first:
-      213: 4674930212769951232
-    second: HumanBaseIdle_60
+      213: -6909430655278595210
+    second: OrcBaseIdle_60
   - first:
-      213: -321764138998682102
-    second: HumanBaseIdle_61
+      213: -3626594273875113969
+    second: OrcBaseIdle_61
   - first:
-      213: -6368213320735868184
-    second: HumanBaseIdle_62
+      213: -6444286030399994073
+    second: OrcBaseIdle_62
   - first:
-      213: -5634215808361854087
-    second: HumanBaseIdle_63
+      213: -7961990642917921374
+    second: OrcBaseIdle_63
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -302,7 +302,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HumanBaseIdle_0
+      name: OrcBaseIdle_0
       rect:
         serializedVersion: 2
         x: 0
@@ -316,14 +316,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac8ab3fa035dbf7a0800000000000000
-      internalID: -6342241245146142518
+      spriteID: 8fb68e876b0f85f40800000000000000
+      internalID: 5717584393450056696
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_1
+      name: OrcBaseIdle_1
       rect:
         serializedVersion: 2
         x: 32
@@ -337,14 +337,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f311b2134bbe45f0800000000000000
-      internalID: -770472589482978312
+      spriteID: 486a31174b3a68f60800000000000000
+      internalID: 8036290580475782788
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_2
+      name: OrcBaseIdle_2
       rect:
         serializedVersion: 2
         x: 64
@@ -358,14 +358,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f5f8c86d2ecc7a10800000000000000
-      internalID: 1908627036525098482
+      spriteID: 86d2cd25d5920bba0800000000000000
+      internalID: -6075310416523940504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_3
+      name: OrcBaseIdle_3
       rect:
         serializedVersion: 2
         x: 96
@@ -379,14 +379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c985c9736d5423e10800000000000000
-      internalID: 2175878356331681948
+      spriteID: 194bbc0179dd528e0800000000000000
+      internalID: -1718724041880390511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_4
+      name: OrcBaseIdle_4
       rect:
         serializedVersion: 2
         x: 128
@@ -400,14 +400,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd70aed3f8fd0c290800000000000000
-      internalID: -7872046342331562017
+      spriteID: e4d757d5217f03790800000000000000
+      internalID: -7552264916850868914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_5
+      name: OrcBaseIdle_5
       rect:
         serializedVersion: 2
         x: 160
@@ -421,14 +421,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2aaf2f058a0833750800000000000000
-      internalID: 6283507365512936098
+      spriteID: 3bd28e1ef997d8010800000000000000
+      internalID: 1192743203919900083
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_6
+      name: OrcBaseIdle_6
       rect:
         serializedVersion: 2
         x: 192
@@ -442,17 +442,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfbc9fedcb5b90840800000000000000
-      internalID: 5190879868320599037
+      spriteID: 38964a932e21b2520800000000000000
+      internalID: 2678255166240876931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_7
+      name: OrcBaseIdle_7
       rect:
         serializedVersion: 2
-        x: 225
+        x: 224
         y: 96
         width: 32
         height: 32
@@ -463,14 +463,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8207941aae726870800000000000000
-      internalID: 8674635101223977613
+      spriteID: 03269bb1a004030b0800000000000000
+      internalID: -5751026311993138640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_8
+      name: OrcBaseIdle_8
       rect:
         serializedVersion: 2
         x: 256
@@ -484,14 +484,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d2c59bae98516160800000000000000
-      internalID: 7016987132926739152
+      spriteID: 0a89c87a5f8e8c570800000000000000
+      internalID: 8487289639555340448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_9
+      name: OrcBaseIdle_9
       rect:
         serializedVersion: 2
         x: 288
@@ -505,14 +505,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e417ce52f68aa00e0800000000000000
-      internalID: -2302843064115498674
+      spriteID: cda733038730b5cf0800000000000000
+      internalID: -262612338531403044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_10
+      name: OrcBaseIdle_10
       rect:
         serializedVersion: 2
         x: 320
@@ -526,14 +526,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e226cc0b865a5b70800000000000000
-      internalID: 8888511969783849704
+      spriteID: 3f335e7be90596000800000000000000
+      internalID: 29643515174925299
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_11
+      name: OrcBaseIdle_11
       rect:
         serializedVersion: 2
         x: 352
@@ -547,14 +547,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b2ceca54fe31e790800000000000000
-      internalID: -7502646285006093646
+      spriteID: 22f9bc803f8773830800000000000000
+      internalID: 4050839375062998818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_12
+      name: OrcBaseIdle_12
       rect:
         serializedVersion: 2
         x: 384
@@ -568,14 +568,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec043edaabca4bef0800000000000000
-      internalID: -93259774486691634
+      spriteID: 014dfe9a47ede5880800000000000000
+      internalID: -8620208044091911152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_13
+      name: OrcBaseIdle_13
       rect:
         serializedVersion: 2
         x: 416
@@ -589,14 +589,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1dfbc45f663db0710800000000000000
-      internalID: 1660653326771732433
+      spriteID: 120b78eaa870eea40800000000000000
+      internalID: 5399261295478812705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_14
+      name: OrcBaseIdle_14
       rect:
         serializedVersion: 2
         x: 448
@@ -610,14 +610,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a3b5361a87390ab0800000000000000
-      internalID: -5041437241646926939
+      spriteID: 03ec0508726f7b270800000000000000
+      internalID: 8266346290578771504
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_15
+      name: OrcBaseIdle_15
       rect:
         serializedVersion: 2
         x: 480
@@ -631,14 +631,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d63da7498ae25cb30800000000000000
-      internalID: 4306899920230208365
+      spriteID: bf417df4272ec93f0800000000000000
+      internalID: -892589645532556037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_16
+      name: OrcBaseIdle_16
       rect:
         serializedVersion: 2
         x: 0
@@ -652,14 +652,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aaaef14111bb97680800000000000000
-      internalID: -8756762318418744662
+      spriteID: 4148bf1fcae698f80800000000000000
+      internalID: -8103824365403274220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_17
+      name: OrcBaseIdle_17
       rect:
         serializedVersion: 2
         x: 32
@@ -673,14 +673,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd968542095cfcf50800000000000000
-      internalID: 6903953976657996253
+      spriteID: c569c9a9bdb230640800000000000000
+      internalID: 5044924229776873052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_18
+      name: OrcBaseIdle_18
       rect:
         serializedVersion: 2
         x: 64
@@ -694,14 +694,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d28088f898d49b440800000000000000
-      internalID: 4952074518484486189
+      spriteID: 9ac545f86d4006f40800000000000000
+      internalID: 5719576846334713001
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_19
+      name: OrcBaseIdle_19
       rect:
         serializedVersion: 2
         x: 96
@@ -715,14 +715,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ca80ec06d41971d0800000000000000
-      internalID: -3352625538029024568
+      spriteID: 1cbe9629ace6183f0800000000000000
+      internalID: -900316634178524223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_20
+      name: OrcBaseIdle_20
       rect:
         serializedVersion: 2
         x: 128
@@ -736,14 +736,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e19c34a4114bf1ec0800000000000000
-      internalID: -3593955991264966370
+      spriteID: e0ec891220a827490800000000000000
+      internalID: -7749980266992972274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_21
+      name: OrcBaseIdle_21
       rect:
         serializedVersion: 2
         x: 160
@@ -757,14 +757,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3577beacfc45d710800000000000000
-      internalID: 1717363481058440509
+      spriteID: 319e3a47a0cb4e390800000000000000
+      internalID: -7789894702351521517
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_22
+      name: OrcBaseIdle_22
       rect:
         serializedVersion: 2
         x: 192
@@ -778,14 +778,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b3a46ece67548880800000000000000
-      internalID: -8609660454204824653
+      spriteID: d04be4571eb39efe0800000000000000
+      internalID: -1159329589549419507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_23
+      name: OrcBaseIdle_23
       rect:
         serializedVersion: 2
         x: 224
@@ -799,14 +799,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23708b3acf8040c00800000000000000
-      internalID: 865826909533505330
+      spriteID: d374acbc4e1f48910800000000000000
+      internalID: 1838860512847873853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_24
+      name: OrcBaseIdle_24
       rect:
         serializedVersion: 2
         x: 256
@@ -820,14 +820,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8fd1c05769e4ac90800000000000000
-      internalID: -7159340877666459763
+      spriteID: da41a718a02eee290800000000000000
+      internalID: -7859095764965124947
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_25
+      name: OrcBaseIdle_25
       rect:
         serializedVersion: 2
         x: 288
@@ -841,14 +841,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68483a131c6bae3d0800000000000000
-      internalID: -3176525646278720378
+      spriteID: 97779c0be45e35870800000000000000
+      internalID: 8670525833754539897
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_26
+      name: OrcBaseIdle_26
       rect:
         serializedVersion: 2
         x: 320
@@ -862,14 +862,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30d387e1b8d73efc0800000000000000
-      internalID: -3466789251680027389
+      spriteID: 8d3b82bfb5ea8f950800000000000000
+      internalID: 6483123373678834648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_27
+      name: OrcBaseIdle_27
       rect:
         serializedVersion: 2
         x: 352
@@ -883,14 +883,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3030ffed92e04260800000000000000
-      internalID: 7079907782189658174
+      spriteID: 1f89270797be7f3c0800000000000000
+      internalID: -4325730010255943439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_28
+      name: OrcBaseIdle_28
       rect:
         serializedVersion: 2
         x: 384
@@ -904,14 +904,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d538461f518f4d40800000000000000
-      internalID: 5570813509476300240
+      spriteID: 2fa24b8f77b0c4cf0800000000000000
+      internalID: -266825668020131086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_29
+      name: OrcBaseIdle_29
       rect:
         serializedVersion: 2
         x: 416
@@ -925,14 +925,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb2f8e0b29ea726b0800000000000000
-      internalID: -5321092489658436932
+      spriteID: 29f778966dd5a9100800000000000000
+      internalID: 115507915926241170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_30
+      name: OrcBaseIdle_30
       rect:
         serializedVersion: 2
         x: 448
@@ -946,14 +946,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 05690c25d979825d0800000000000000
-      internalID: -3087050842608462256
+      spriteID: 7433ef3102414f340800000000000000
+      internalID: 4896560822865507143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_31
+      name: OrcBaseIdle_31
       rect:
         serializedVersion: 2
         x: 480
@@ -967,14 +967,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c2e75778974fec30800000000000000
-      internalID: 4390806881872372422
+      spriteID: 50c0d8ca990c60f50800000000000000
+      internalID: 6847372049720871941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_32
+      name: OrcBaseIdle_32
       rect:
         serializedVersion: 2
         x: 0
@@ -988,14 +988,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87925fa8c95a58b60800000000000000
-      internalID: 7747780825725610360
+      spriteID: d548ec93d0b170370800000000000000
+      internalID: 8288623382817047645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_33
+      name: OrcBaseIdle_33
       rect:
         serializedVersion: 2
         x: 32
@@ -1009,14 +1009,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4507fe1509cacd70800000000000000
-      internalID: 9064278223868069198
+      spriteID: 21fb89d73a3f85950800000000000000
+      internalID: 6438163550838505234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_34
+      name: OrcBaseIdle_34
       rect:
         serializedVersion: 2
         x: 64
@@ -1030,14 +1030,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 768af5412a66bfc60800000000000000
-      internalID: 7852983221563140199
+      spriteID: 699ea041817ce28d0800000000000000
+      internalID: -2869137006359025258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_35
+      name: OrcBaseIdle_35
       rect:
         serializedVersion: 2
         x: 96
@@ -1051,14 +1051,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f1e7c2499d867aa0800000000000000
-      internalID: -6163583350620036618
+      spriteID: 429249e3f347289a0800000000000000
+      internalID: -6232291119345686236
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_36
+      name: OrcBaseIdle_36
       rect:
         serializedVersion: 2
         x: 128
@@ -1072,14 +1072,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a941f998af5ae170800000000000000
-      internalID: 8208478448578021798
+      spriteID: e8f05a195011f3b60800000000000000
+      internalID: 7727914201207082894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_37
+      name: OrcBaseIdle_37
       rect:
         serializedVersion: 2
         x: 160
@@ -1093,14 +1093,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e941ace6b2a9d86a0800000000000000
-      internalID: -6445325980364303202
+      spriteID: 6d23b2f03023da980800000000000000
+      internalID: -8526103530821700906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_38
+      name: OrcBaseIdle_38
       rect:
         serializedVersion: 2
         x: 192
@@ -1114,14 +1114,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a5fb7c0b3609e120800000000000000
-      internalID: 2443491123507492264
+      spriteID: 145234e1b73be3e00800000000000000
+      internalID: 1026455106457118017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_39
+      name: OrcBaseIdle_39
       rect:
         serializedVersion: 2
         x: 224
@@ -1135,14 +1135,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f8728ab2231a9ad0800000000000000
-      internalID: -2694820387148891916
+      spriteID: 062752d308d201860800000000000000
+      internalID: 7498543408376803936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_40
+      name: OrcBaseIdle_40
       rect:
         serializedVersion: 2
         x: 256
@@ -1156,14 +1156,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6962ebd3bbed3d880800000000000000
-      internalID: -8587275168689281386
+      spriteID: cbef590a4721ed260800000000000000
+      internalID: 7124151952666394300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_41
+      name: OrcBaseIdle_41
       rect:
         serializedVersion: 2
         x: 288
@@ -1177,14 +1177,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1586c6fb429cf0e70800000000000000
-      internalID: 9083700133097138257
+      spriteID: 4142c6d7240bd8a00800000000000000
+      internalID: 760457711714051092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_42
+      name: OrcBaseIdle_42
       rect:
         serializedVersion: 2
         x: 320
@@ -1198,14 +1198,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b046d0852dcababc0800000000000000
-      internalID: -3770730243572276213
+      spriteID: 230e0ac8e1c1ecb80800000000000000
+      internalID: -8372723739701223374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_43
+      name: OrcBaseIdle_43
       rect:
         serializedVersion: 2
         x: 352
@@ -1219,14 +1219,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99a791e983150dc00800000000000000
-      internalID: 923327227223440025
+      spriteID: 8f20f0faa238cc730800000000000000
+      internalID: 4020732786683871992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_44
+      name: OrcBaseIdle_44
       rect:
         serializedVersion: 2
         x: 384
@@ -1240,14 +1240,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2551d233ffe1f640800000000000000
-      internalID: 5112130879850894636
+      spriteID: cc37a48d96a9f8690800000000000000
+      internalID: -7597684266959735860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_45
+      name: OrcBaseIdle_45
       rect:
         serializedVersion: 2
         x: 416
@@ -1261,14 +1261,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52c960d6d8d4ab5e0800000000000000
-      internalID: -1893115423540995035
+      spriteID: 980d062cbda6ee1f0800000000000000
+      internalID: -1013755374020276087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_46
+      name: OrcBaseIdle_46
       rect:
         serializedVersion: 2
         x: 448
@@ -1282,14 +1282,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd9c3756e791ea040800000000000000
-      internalID: 4660690695033702879
+      spriteID: 6aaec130013737a80800000000000000
+      internalID: -8470299961544873306
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_47
+      name: OrcBaseIdle_47
       rect:
         serializedVersion: 2
         x: 480
@@ -1303,14 +1303,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: baa4795efe9802a10800000000000000
-      internalID: 1882656307682953899
+      spriteID: 77e8c7efc111634b0800000000000000
+      internalID: -5461158681913815433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_48
+      name: OrcBaseIdle_48
       rect:
         serializedVersion: 2
         x: 0
@@ -1324,14 +1324,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ac613f3f2701d500800000000000000
-      internalID: 419124139827227813
+      spriteID: 3c6ac0127011d3870800000000000000
+      internalID: 8664099980447622851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_49
+      name: OrcBaseIdle_49
       rect:
         serializedVersion: 2
         x: 32
@@ -1345,14 +1345,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b39633d6794f79520800000000000000
-      internalID: 2708902632095967547
+      spriteID: ba2a3d10422b9d8f0800000000000000
+      internalID: -515184814637997397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_50
+      name: OrcBaseIdle_50
       rect:
         serializedVersion: 2
         x: 64
@@ -1366,14 +1366,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb5b06376f1aad810800000000000000
-      internalID: 1790921881702938047
+      spriteID: 0f3a6ff675d6d0020800000000000000
+      internalID: 2309622406218949616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_51
+      name: OrcBaseIdle_51
       rect:
         serializedVersion: 2
         x: 96
@@ -1387,14 +1387,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95ef19835a7ef1a30800000000000000
-      internalID: 4188320875282562649
+      spriteID: b0302bac845a61190800000000000000
+      internalID: -7992018756665474293
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_52
+      name: OrcBaseIdle_52
       rect:
         serializedVersion: 2
         x: 128
@@ -1408,14 +1408,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fbb0ba224e498660800000000000000
-      internalID: 7388522709769042937
+      spriteID: 87cac73e430edacc0800000000000000
+      internalID: -3698053201241789320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_53
+      name: OrcBaseIdle_53
       rect:
         serializedVersion: 2
         x: 160
@@ -1429,14 +1429,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a294dd9ac80f04490800000000000000
-      internalID: -7763941270650795734
+      spriteID: b4f9279af2478e1d0800000000000000
+      internalID: -3321276977130594485
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_54
+      name: OrcBaseIdle_54
       rect:
         serializedVersion: 2
         x: 192
@@ -1450,14 +1450,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e22329107a78f830800000000000000
-      internalID: 4105165682224866017
+      spriteID: 7ca9c4c9ad5c62220800000000000000
+      internalID: 2460871789120363207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_55
+      name: OrcBaseIdle_55
       rect:
         serializedVersion: 2
         x: 224
@@ -1471,14 +1471,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11caa0d36dc947160800000000000000
-      internalID: 7022410162938489873
+      spriteID: 55c308c9ec2934250800000000000000
+      internalID: 5927742950636272725
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_56
+      name: OrcBaseIdle_56
       rect:
         serializedVersion: 2
         x: 256
@@ -1492,14 +1492,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73119bd917dd89480800000000000000
-      internalID: -8892113984195849929
+      spriteID: 6fc896be501f40a40800000000000000
+      internalID: 5333652866440203510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_57
+      name: OrcBaseIdle_57
       rect:
         serializedVersion: 2
         x: 288
@@ -1513,14 +1513,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7457d1346586a460800000000000000
-      internalID: 7252630915306181759
+      spriteID: 10e98dd8e5cad2600800000000000000
+      internalID: 445201460286234113
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_58
+      name: OrcBaseIdle_58
       rect:
         serializedVersion: 2
         x: 320
@@ -1534,14 +1534,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26db81ef33c376840800000000000000
-      internalID: 5217204887336041826
+      spriteID: dea7cda538b737810800000000000000
+      internalID: 1761887683327326957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_59
+      name: OrcBaseIdle_59
       rect:
         serializedVersion: 2
         x: 352
@@ -1555,14 +1555,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d129af87510808b0800000000000000
-      internalID: -5185893495333117480
+      spriteID: 848795cdf16692230800000000000000
+      internalID: 3614532462968404040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_60
+      name: OrcBaseIdle_60
       rect:
         serializedVersion: 2
         x: 384
@@ -1576,14 +1576,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00ee4e97240b0e040800000000000000
-      internalID: 4674930212769951232
+      spriteID: 673ccef3d65cc10a0800000000000000
+      internalID: -6909430655278595210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_61
+      name: OrcBaseIdle_61
       rect:
         serializedVersion: 2
         x: 416
@@ -1597,14 +1597,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0e2689683dd88bf0800000000000000
-      internalID: -321764138998682102
+      spriteID: f084531f8bfbbadc0800000000000000
+      internalID: -3626594273875113969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_62
+      name: OrcBaseIdle_62
       rect:
         serializedVersion: 2
         x: 448
@@ -1618,14 +1618,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8eab0ab99bf8f97a0800000000000000
-      internalID: -6368213320735868184
+      spriteID: 7270ff6affb4196a0800000000000000
+      internalID: -6444286030399994073
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseIdle_63
+      name: OrcBaseIdle_63
       rect:
         serializedVersion: 2
         x: 480
@@ -1639,8 +1639,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97b83bad29e3fc1b0800000000000000
-      internalID: -5634215808361854087
+      spriteID: 2ada4e7d1b3518190800000000000000
+      internalID: -7961990642917921374
       vertices: []
       indices: 
       edges: []
@@ -1656,70 +1656,70 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      HumanBaseIdle_0: -6342241245146142518
-      HumanBaseIdle_1: -770472589482978312
-      HumanBaseIdle_10: 8888511969783849704
-      HumanBaseIdle_11: -7502646285006093646
-      HumanBaseIdle_12: -93259774486691634
-      HumanBaseIdle_13: 1660653326771732433
-      HumanBaseIdle_14: -5041437241646926939
-      HumanBaseIdle_15: 4306899920230208365
-      HumanBaseIdle_16: -8756762318418744662
-      HumanBaseIdle_17: 6903953976657996253
-      HumanBaseIdle_18: 4952074518484486189
-      HumanBaseIdle_19: -3352625538029024568
-      HumanBaseIdle_2: 1908627036525098482
-      HumanBaseIdle_20: -3593955991264966370
-      HumanBaseIdle_21: 1717363481058440509
-      HumanBaseIdle_22: -8609660454204824653
-      HumanBaseIdle_23: 865826909533505330
-      HumanBaseIdle_24: -7159340877666459763
-      HumanBaseIdle_25: -3176525646278720378
-      HumanBaseIdle_26: -3466789251680027389
-      HumanBaseIdle_27: 7079907782189658174
-      HumanBaseIdle_28: 5570813509476300240
-      HumanBaseIdle_29: -5321092489658436932
-      HumanBaseIdle_3: 2175878356331681948
-      HumanBaseIdle_30: -3087050842608462256
-      HumanBaseIdle_31: 4390806881872372422
-      HumanBaseIdle_32: 7747780825725610360
-      HumanBaseIdle_33: 9064278223868069198
-      HumanBaseIdle_34: 7852983221563140199
-      HumanBaseIdle_35: -6163583350620036618
-      HumanBaseIdle_36: 8208478448578021798
-      HumanBaseIdle_37: -6445325980364303202
-      HumanBaseIdle_38: 2443491123507492264
-      HumanBaseIdle_39: -2694820387148891916
-      HumanBaseIdle_4: -7872046342331562017
-      HumanBaseIdle_40: -8587275168689281386
-      HumanBaseIdle_41: 9083700133097138257
-      HumanBaseIdle_42: -3770730243572276213
-      HumanBaseIdle_43: 923327227223440025
-      HumanBaseIdle_44: 5112130879850894636
-      HumanBaseIdle_45: -1893115423540995035
-      HumanBaseIdle_46: 4660690695033702879
-      HumanBaseIdle_47: 1882656307682953899
-      HumanBaseIdle_48: 419124139827227813
-      HumanBaseIdle_49: 2708902632095967547
-      HumanBaseIdle_5: 6283507365512936098
-      HumanBaseIdle_50: 1790921881702938047
-      HumanBaseIdle_51: 4188320875282562649
-      HumanBaseIdle_52: 7388522709769042937
-      HumanBaseIdle_53: -7763941270650795734
-      HumanBaseIdle_54: 4105165682224866017
-      HumanBaseIdle_55: 7022410162938489873
-      HumanBaseIdle_56: -8892113984195849929
-      HumanBaseIdle_57: 7252630915306181759
-      HumanBaseIdle_58: 5217204887336041826
-      HumanBaseIdle_59: -5185893495333117480
-      HumanBaseIdle_6: 5190879868320599037
-      HumanBaseIdle_60: 4674930212769951232
-      HumanBaseIdle_61: -321764138998682102
-      HumanBaseIdle_62: -6368213320735868184
-      HumanBaseIdle_63: -5634215808361854087
-      HumanBaseIdle_7: 8674635101223977613
-      HumanBaseIdle_8: 7016987132926739152
-      HumanBaseIdle_9: -2302843064115498674
+      OrcBaseIdle_0: 5717584393450056696
+      OrcBaseIdle_1: 8036290580475782788
+      OrcBaseIdle_10: 29643515174925299
+      OrcBaseIdle_11: 4050839375062998818
+      OrcBaseIdle_12: -8620208044091911152
+      OrcBaseIdle_13: 5399261295478812705
+      OrcBaseIdle_14: 8266346290578771504
+      OrcBaseIdle_15: -892589645532556037
+      OrcBaseIdle_16: -8103824365403274220
+      OrcBaseIdle_17: 5044924229776873052
+      OrcBaseIdle_18: 5719576846334713001
+      OrcBaseIdle_19: -900316634178524223
+      OrcBaseIdle_2: -6075310416523940504
+      OrcBaseIdle_20: -7749980266992972274
+      OrcBaseIdle_21: -7789894702351521517
+      OrcBaseIdle_22: -1159329589549419507
+      OrcBaseIdle_23: 1838860512847873853
+      OrcBaseIdle_24: -7859095764965124947
+      OrcBaseIdle_25: 8670525833754539897
+      OrcBaseIdle_26: 6483123373678834648
+      OrcBaseIdle_27: -4325730010255943439
+      OrcBaseIdle_28: -266825668020131086
+      OrcBaseIdle_29: 115507915926241170
+      OrcBaseIdle_3: -1718724041880390511
+      OrcBaseIdle_30: 4896560822865507143
+      OrcBaseIdle_31: 6847372049720871941
+      OrcBaseIdle_32: 8288623382817047645
+      OrcBaseIdle_33: 6438163550838505234
+      OrcBaseIdle_34: -2869137006359025258
+      OrcBaseIdle_35: -6232291119345686236
+      OrcBaseIdle_36: 7727914201207082894
+      OrcBaseIdle_37: -8526103530821700906
+      OrcBaseIdle_38: 1026455106457118017
+      OrcBaseIdle_39: 7498543408376803936
+      OrcBaseIdle_4: -7552264916850868914
+      OrcBaseIdle_40: 7124151952666394300
+      OrcBaseIdle_41: 760457711714051092
+      OrcBaseIdle_42: -8372723739701223374
+      OrcBaseIdle_43: 4020732786683871992
+      OrcBaseIdle_44: -7597684266959735860
+      OrcBaseIdle_45: -1013755374020276087
+      OrcBaseIdle_46: -8470299961544873306
+      OrcBaseIdle_47: -5461158681913815433
+      OrcBaseIdle_48: 8664099980447622851
+      OrcBaseIdle_49: -515184814637997397
+      OrcBaseIdle_5: 1192743203919900083
+      OrcBaseIdle_50: 2309622406218949616
+      OrcBaseIdle_51: -7992018756665474293
+      OrcBaseIdle_52: -3698053201241789320
+      OrcBaseIdle_53: -3321276977130594485
+      OrcBaseIdle_54: 2460871789120363207
+      OrcBaseIdle_55: 5927742950636272725
+      OrcBaseIdle_56: 5333652866440203510
+      OrcBaseIdle_57: 445201460286234113
+      OrcBaseIdle_58: 1761887683327326957
+      OrcBaseIdle_59: 3614532462968404040
+      OrcBaseIdle_6: 2678255166240876931
+      OrcBaseIdle_60: -6909430655278595210
+      OrcBaseIdle_61: -3626594273875113969
+      OrcBaseIdle_62: -6444286030399994073
+      OrcBaseIdle_63: -7961990642917921374
+      OrcBaseIdle_7: -5751026311993138640
+      OrcBaseIdle_8: 8487289639555340448
+      OrcBaseIdle_9: -262612338531403044
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

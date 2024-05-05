@@ -1,55 +1,43 @@
 fileFormatVersion: 2
-guid: f812282260a85de4196fa640ee2227fb
+guid: 63c8fb88ea7b81741bbdd3c1151cd729
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3750445756357391431
-    second: HumanBaseWalk_0
+      213: -988519853068827794
+    second: OrcBaseDie_0
   - first:
-      213: 7623067749143862023
-    second: HumanBaseWalk_1
+      213: -1674744235115547596
+    second: OrcBaseDie_1
   - first:
-      213: -1050204587564385693
-    second: HumanBaseWalk_2
+      213: 7599549814312815807
+    second: OrcBaseDie_2
   - first:
-      213: -5025434943947313069
-    second: HumanBaseWalk_3
+      213: 5608185311138130917
+    second: OrcBaseDie_3
   - first:
-      213: 2075280910685719026
-    second: HumanBaseWalk_4
+      213: -3048741275224648871
+    second: OrcBaseDie_4
   - first:
-      213: -3870907011009635682
-    second: HumanBaseWalk_5
+      213: 5651469300048521124
+    second: OrcBaseDie_5
   - first:
-      213: 6332971975109947639
-    second: HumanBaseWalk_6
+      213: 1620840836723810862
+    second: OrcBaseDie_6
   - first:
-      213: 2138505267778344673
-    second: HumanBaseWalk_7
+      213: -8319356070614738197
+    second: OrcBaseDie_7
   - first:
-      213: 7298903167323142095
-    second: HumanBaseWalk_8
+      213: -7710426093976501603
+    second: OrcBaseDie_8
   - first:
-      213: -4311340294224399340
-    second: HumanBaseWalk_9
+      213: 3500818082031918217
+    second: OrcBaseDie_9
   - first:
-      213: -3184792920018915136
-    second: HumanBaseWalk_10
+      213: 8707739701622107283
+    second: OrcBaseDie_10
   - first:
-      213: -644189117072829471
-    second: HumanBaseWalk_11
-  - first:
-      213: 6550241856275766504
-    second: HumanBaseWalk_12
-  - first:
-      213: -2181917829056002689
-    second: HumanBaseWalk_13
-  - first:
-      213: -7734677932745572677
-    second: HumanBaseWalk_14
-  - first:
-      213: 841415138018549078
-    second: HumanBaseWalk_15
+      213: 4578380491151366241
+    second: OrcBaseDie_11
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -158,259 +146,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HumanBaseWalk_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.40625}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 744bd017b824c0430800000000000000
-      internalID: 3750445756357391431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 96
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.40625}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70bd476aab39ac960800000000000000
-      internalID: 7623067749143862023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 96
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.40625}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 36a3db8ed7cec61f0800000000000000
-      internalID: -1050204587564385693
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 96
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.40625}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3507f2c5b81124ab0800000000000000
-      internalID: -5025434943947313069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f942923ef0eccc10800000000000000
-      internalID: 2075280910685719026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_5
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9a933a1596c74ac0800000000000000
-      internalID: -3870907011009635682
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_6
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f0bee4357c33e750800000000000000
-      internalID: 6332971975109947639
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_7
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 64
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e6da34f53f7dad10800000000000000
-      internalID: 2138505267778344673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc7f44a62c9ea4560800000000000000
-      internalID: 7298903167323142095
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_9
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4143de848da0b24c0800000000000000
-      internalID: -4311340294224399340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_10
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c0f71786b75dc3d0800000000000000
-      internalID: -3184792920018915136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_11
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e393bc39616f07f0800000000000000
-      internalID: -644189117072829471
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_12
+      name: OrcBaseDie_0
       rect:
         serializedVersion: 2
         x: 0
@@ -418,20 +154,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ec563c734227ea50800000000000000
-      internalID: 6550241856275766504
+      spriteID: e6349685e621842f0800000000000000
+      internalID: -988519853068827794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_13
+      name: OrcBaseDie_1
       rect:
         serializedVersion: 2
         x: 32
@@ -439,20 +175,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7586067b4548b1e0800000000000000
-      internalID: -2181917829056002689
+      spriteID: 434fd48cdfc12c8e0800000000000000
+      internalID: -1674744235115547596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_14
+      name: OrcBaseDie_2
       rect:
         serializedVersion: 2
         x: 64
@@ -460,20 +196,20 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbeb5a67667e8a490800000000000000
-      internalID: -7734677932745572677
+      spriteID: fbc400fba46077960800000000000000
+      internalID: 7599549814312815807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_15
+      name: OrcBaseDie_3
       rect:
         serializedVersion: 2
         x: 96
@@ -481,14 +217,182 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65d5b3a2c9e4dab00800000000000000
-      internalID: 841415138018549078
+      spriteID: 5eba3f8b3d644dd40800000000000000
+      internalID: 5608185311138130917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseDie_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953d92e86f1b0b5d0800000000000000
+      internalID: -3048741275224648871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseDie_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7ea68b26d0e6e40800000000000000
+      internalID: 5651469300048521124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseDie_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22ae5647226e7610800000000000000
+      internalID: 1620840836723810862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseDie_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bead40b4bb5bb8c80800000000000000
+      internalID: -8319356070614738197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseDie_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c0a1b1501ff490800000000000000
+      internalID: -7710426093976501603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseDie_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cd6ca5f77659030800000000000000
+      internalID: 3500818082031918217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseDie_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c60cf7f1b18d870800000000000000
+      internalID: 8707739701622107283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseDie_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168d7a5accca98f30800000000000000
+      internalID: 4578380491151366241
       vertices: []
       indices: 
       edges: []
@@ -504,22 +408,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      HumanBaseWalk_0: 3750445756357391431
-      HumanBaseWalk_1: 7623067749143862023
-      HumanBaseWalk_10: -3184792920018915136
-      HumanBaseWalk_11: -644189117072829471
-      HumanBaseWalk_12: 6550241856275766504
-      HumanBaseWalk_13: -2181917829056002689
-      HumanBaseWalk_14: -7734677932745572677
-      HumanBaseWalk_15: 841415138018549078
-      HumanBaseWalk_2: -1050204587564385693
-      HumanBaseWalk_3: -5025434943947313069
-      HumanBaseWalk_4: 2075280910685719026
-      HumanBaseWalk_5: -3870907011009635682
-      HumanBaseWalk_6: 6332971975109947639
-      HumanBaseWalk_7: 2138505267778344673
-      HumanBaseWalk_8: 7298903167323142095
-      HumanBaseWalk_9: -4311340294224399340
+      OrcBaseDie_0: -988519853068827794
+      OrcBaseDie_1: -1674744235115547596
+      OrcBaseDie_10: 8707739701622107283
+      OrcBaseDie_11: 4578380491151366241
+      OrcBaseDie_2: 7599549814312815807
+      OrcBaseDie_3: 5608185311138130917
+      OrcBaseDie_4: -3048741275224648871
+      OrcBaseDie_5: 5651469300048521124
+      OrcBaseDie_6: 1620840836723810862
+      OrcBaseDie_7: -8319356070614738197
+      OrcBaseDie_8: -7710426093976501603
+      OrcBaseDie_9: 3500818082031918217
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

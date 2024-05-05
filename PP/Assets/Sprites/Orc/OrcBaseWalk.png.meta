@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: f812282260a85de4196fa640ee2227fb
+guid: 8abab9f6f7cf6d14099b96e573c7b88b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3750445756357391431
-    second: HumanBaseWalk_0
+      213: -7471305376399858020
+    second: OrcBaseWalk_0
   - first:
-      213: 7623067749143862023
-    second: HumanBaseWalk_1
+      213: 8274892306729955604
+    second: OrcBaseWalk_1
   - first:
-      213: -1050204587564385693
-    second: HumanBaseWalk_2
+      213: 973822097157870627
+    second: OrcBaseWalk_2
   - first:
-      213: -5025434943947313069
-    second: HumanBaseWalk_3
+      213: 5516234253104114145
+    second: OrcBaseWalk_3
   - first:
-      213: 2075280910685719026
-    second: HumanBaseWalk_4
+      213: -1760093292000170343
+    second: OrcBaseWalk_4
   - first:
-      213: -3870907011009635682
-    second: HumanBaseWalk_5
+      213: 7620784470084396748
+    second: OrcBaseWalk_5
   - first:
-      213: 6332971975109947639
-    second: HumanBaseWalk_6
+      213: -2562873871581614116
+    second: OrcBaseWalk_6
   - first:
-      213: 2138505267778344673
-    second: HumanBaseWalk_7
+      213: -5338640587956976603
+    second: OrcBaseWalk_7
   - first:
-      213: 7298903167323142095
-    second: HumanBaseWalk_8
+      213: -1749212694666727220
+    second: OrcBaseWalk_8
   - first:
-      213: -4311340294224399340
-    second: HumanBaseWalk_9
+      213: 8273647476563986030
+    second: OrcBaseWalk_9
   - first:
-      213: -3184792920018915136
-    second: HumanBaseWalk_10
+      213: -3494307072195368742
+    second: OrcBaseWalk_10
   - first:
-      213: -644189117072829471
-    second: HumanBaseWalk_11
+      213: 1084639972450311672
+    second: OrcBaseWalk_11
   - first:
-      213: 6550241856275766504
-    second: HumanBaseWalk_12
+      213: 2942245912216191504
+    second: OrcBaseWalk_12
   - first:
-      213: -2181917829056002689
-    second: HumanBaseWalk_13
+      213: -4146227878414969810
+    second: OrcBaseWalk_13
   - first:
-      213: -7734677932745572677
-    second: HumanBaseWalk_14
+      213: 4080908481475001424
+    second: OrcBaseWalk_14
   - first:
-      213: 841415138018549078
-    second: HumanBaseWalk_15
+      213: 6655201703379956411
+    second: OrcBaseWalk_15
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -158,7 +158,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HumanBaseWalk_0
+      name: OrcBaseWalk_0
       rect:
         serializedVersion: 2
         x: 0
@@ -172,14 +172,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 744bd017b824c0430800000000000000
-      internalID: 3750445756357391431
+      spriteID: c9668374857905890800000000000000
+      internalID: -7471305376399858020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_1
+      name: OrcBaseWalk_1
       rect:
         serializedVersion: 2
         x: 32
@@ -193,14 +193,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70bd476aab39ac960800000000000000
-      internalID: 7623067749143862023
+      spriteID: 4117041f5b256d270800000000000000
+      internalID: 8274892306729955604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_2
+      name: OrcBaseWalk_2
       rect:
         serializedVersion: 2
         x: 64
@@ -214,14 +214,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36a3db8ed7cec61f0800000000000000
-      internalID: -1050204587564385693
+      spriteID: 324558fa906b38d00800000000000000
+      internalID: 973822097157870627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_3
+      name: OrcBaseWalk_3
       rect:
         serializedVersion: 2
         x: 96
@@ -235,14 +235,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3507f2c5b81124ab0800000000000000
-      internalID: -5025434943947313069
+      spriteID: 1e9ec12b3d99d8c40800000000000000
+      internalID: 5516234253104114145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_4
+      name: OrcBaseWalk_4
       rect:
         serializedVersion: 2
         x: 0
@@ -256,14 +256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f942923ef0eccc10800000000000000
-      internalID: 2075280910685719026
+      spriteID: 99e28cee974e297e0800000000000000
+      internalID: -1760093292000170343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_5
+      name: OrcBaseWalk_5
       rect:
         serializedVersion: 2
         x: 32
@@ -277,14 +277,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9a933a1596c74ac0800000000000000
-      internalID: -3870907011009635682
+      spriteID: cc6a131591772c960800000000000000
+      internalID: 7620784470084396748
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_6
+      name: OrcBaseWalk_6
       rect:
         serializedVersion: 2
         x: 64
@@ -298,14 +298,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f0bee4357c33e750800000000000000
-      internalID: 6332971975109947639
+      spriteID: cdf6f30eac7de6cd0800000000000000
+      internalID: -2562873871581614116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_7
+      name: OrcBaseWalk_7
       rect:
         serializedVersion: 2
         x: 96
@@ -319,14 +319,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e6da34f53f7dad10800000000000000
-      internalID: 2138505267778344673
+      spriteID: 524875baba659e5b0800000000000000
+      internalID: -5338640587956976603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_8
+      name: OrcBaseWalk_8
       rect:
         serializedVersion: 2
         x: 0
@@ -340,14 +340,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fc7f44a62c9ea4560800000000000000
-      internalID: 7298903167323142095
+      spriteID: cc039c9625c89b7e0800000000000000
+      internalID: -1749212694666727220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_9
+      name: OrcBaseWalk_9
       rect:
         serializedVersion: 2
         x: 32
@@ -361,14 +361,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4143de848da0b24c0800000000000000
-      internalID: -4311340294224399340
+      spriteID: e6647655b86e1d270800000000000000
+      internalID: 8273647476563986030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_10
+      name: OrcBaseWalk_10
       rect:
         serializedVersion: 2
         x: 64
@@ -382,14 +382,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c0f71786b75dc3d0800000000000000
-      internalID: -3184792920018915136
+      spriteID: ad8e8a14b3ab18fc0800000000000000
+      internalID: -3494307072195368742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_11
+      name: OrcBaseWalk_11
       rect:
         serializedVersion: 2
         x: 96
@@ -403,17 +403,38 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e393bc39616f07f0800000000000000
-      internalID: -644189117072829471
+      spriteID: 8fd171bee4a6d0f00800000000000000
+      internalID: 1084639972450311672
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_12
+      name: OrcBaseWalk_12
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012cd778115f4d820800000000000000
+      internalID: 2942245912216191504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrcBaseWalk_13
+      rect:
+        serializedVersion: 2
+        x: 31
         y: 0
         width: 32
         height: 32
@@ -424,17 +445,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ec563c734227ea50800000000000000
-      internalID: 6550241856275766504
+      spriteID: e24114556b3a576c0800000000000000
+      internalID: -4146227878414969810
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_13
+      name: OrcBaseWalk_14
       rect:
         serializedVersion: 2
-        x: 32
+        x: 63
         y: 0
         width: 32
         height: 32
@@ -445,17 +466,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7586067b4548b1e0800000000000000
-      internalID: -2181917829056002689
+      spriteID: 05c323f64ac42a830800000000000000
+      internalID: 4080908481475001424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HumanBaseWalk_14
+      name: OrcBaseWalk_15
       rect:
         serializedVersion: 2
-        x: 64
+        x: 95
         y: 0
         width: 32
         height: 32
@@ -466,29 +487,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bbeb5a67667e8a490800000000000000
-      internalID: -7734677932745572677
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HumanBaseWalk_15
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 65d5b3a2c9e4dab00800000000000000
-      internalID: 841415138018549078
+      spriteID: bb2798e30b60c5c50800000000000000
+      internalID: 6655201703379956411
       vertices: []
       indices: 
       edges: []
@@ -504,22 +504,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      HumanBaseWalk_0: 3750445756357391431
-      HumanBaseWalk_1: 7623067749143862023
-      HumanBaseWalk_10: -3184792920018915136
-      HumanBaseWalk_11: -644189117072829471
-      HumanBaseWalk_12: 6550241856275766504
-      HumanBaseWalk_13: -2181917829056002689
-      HumanBaseWalk_14: -7734677932745572677
-      HumanBaseWalk_15: 841415138018549078
-      HumanBaseWalk_2: -1050204587564385693
-      HumanBaseWalk_3: -5025434943947313069
-      HumanBaseWalk_4: 2075280910685719026
-      HumanBaseWalk_5: -3870907011009635682
-      HumanBaseWalk_6: 6332971975109947639
-      HumanBaseWalk_7: 2138505267778344673
-      HumanBaseWalk_8: 7298903167323142095
-      HumanBaseWalk_9: -4311340294224399340
+      OrcBaseWalk_0: -7471305376399858020
+      OrcBaseWalk_1: 8274892306729955604
+      OrcBaseWalk_10: -3494307072195368742
+      OrcBaseWalk_11: 1084639972450311672
+      OrcBaseWalk_12: 2942245912216191504
+      OrcBaseWalk_13: -4146227878414969810
+      OrcBaseWalk_14: 4080908481475001424
+      OrcBaseWalk_15: 6655201703379956411
+      OrcBaseWalk_2: 973822097157870627
+      OrcBaseWalk_3: 5516234253104114145
+      OrcBaseWalk_4: -1760093292000170343
+      OrcBaseWalk_5: 7620784470084396748
+      OrcBaseWalk_6: -2562873871581614116
+      OrcBaseWalk_7: -5338640587956976603
+      OrcBaseWalk_8: -1749212694666727220
+      OrcBaseWalk_9: 8273647476563986030
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
