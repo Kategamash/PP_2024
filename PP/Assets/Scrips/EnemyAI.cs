@@ -32,9 +32,6 @@ public class EnemyAI : MonoBehaviour
 
     private void Update()
     {
-
-        Debug.Log(transform.position);
-
         switch (state)
         {
             default: break;

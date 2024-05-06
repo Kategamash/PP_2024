@@ -53,6 +53,9 @@ public class RoomSpawner : MonoBehaviour
                 rand = Random.Range(0, variants.rightRooms.Length);
                 Instantiate(variants.rightRooms[rand], transform.position, variants.rightRooms[rand].transform.rotation);
             }
+
+            RealtimeNavMesh.Instance.GenerateNavMesh();
+
             spawned = true;
         }
     }

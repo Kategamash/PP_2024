@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5962651107675144645}
   - component: {fileID: 9205378659305466794}
   - component: {fileID: 7815229025040271784}
+  - component: {fileID: 7902598418700365483}
   m_Layer: 0
   m_Name: OrcVisual
   m_TagString: Untagged
@@ -106,6 +107,18 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7902598418700365483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5552759347245633499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efbdc8727dd72b54b86c1f1f951f9a82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6868546042002827442
 GameObject:
   m_ObjectHideFlags: 0
@@ -239,6 +252,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   startingState: 0
-  roamingDistanceMax: 5
-  roamingDistanceMin: 1
-  roamingTimerMax: 5
+  roamingDistanceMax: 10
+  roamingDistanceMin: 2
+  roamingTimerMax: 10

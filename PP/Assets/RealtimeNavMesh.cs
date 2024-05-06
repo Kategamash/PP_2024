@@ -5,14 +5,18 @@ using UnityEngine;
 
 public class RealtimeNavMesh : MonoBehaviour
 {
+
+    public static RealtimeNavMesh Instance { get; private set; }
+
     NavMeshSurface navMeshSurface;
 
-    void Start()
+    private void Awake()
     {
+        Instance = this;
         navMeshSurface = GetComponent<NavMeshSurface>();
     }
 
-    void Update()
+    public void GenerateNavMesh()
     {
         navMeshSurface.BuildNavMesh();
     }
