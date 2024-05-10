@@ -50,10 +50,10 @@ public class Inventory : MonoBehaviour
         {
             MoveObject();
         }
-        if(Input.GetKeyDown(KeyCode.I))
+        if (Input.GetKeyDown(KeyCode.I))
         {
             backGround.SetActive(!backGround.activeSelf);
-            if(backGround.activeSelf) 
+            if (backGround.activeSelf)
             {
                 UpdateInventory();
             }
@@ -134,8 +134,8 @@ public class Inventory : MonoBehaviour
             RectTransform rt = newItem.GetComponent<RectTransform>();
             rt.localPosition = new Vector3(0, 0 , 0);
             rt.localScale = new Vector3(1, 1, 1);
-            newItem.GetComponentInChildren<RectTransform>().localScale = new Vector3(1, 1, 1);
-            Button tempButton = newItem.GetComponentInChildren<Button>();
+            newItem.GetComponent<RectTransform>().localScale = new Vector3(1, 1, 1);
+            Button tempButton = newItem.GetComponent<Button>();
             tempButton.onClick.AddListener(delegate { SelectObject(); });
             items.Add(ii);
         }
@@ -191,7 +191,7 @@ public class Inventory : MonoBehaviour
             {
                 items[i].itemGameObj.GetComponentInChildren<Text>().text = "";
             }
-            items[i].itemGameObj.GetComponentInChildren<Image>().sprite = data.items[items[i].id].img;
+            items[i].itemGameObj.GetComponent<Image>().sprite = data.items[items[i].id].img;
         }
     }
     public void MoveObject()
