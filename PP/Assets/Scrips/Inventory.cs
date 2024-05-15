@@ -31,6 +31,9 @@ public class Inventory : MonoBehaviour
 
     public GameObject backGround;
 
+
+    public bool isOpened = false;
+
     public void Start()
     {
         if(items.Count == 0)
@@ -52,11 +55,17 @@ public class Inventory : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.I))
         {
-            backGround.SetActive(!backGround.activeSelf);
-            if (backGround.activeSelf)
-            {
-                UpdateInventory();
-            }
+
+            Debug.Log("I pressed");
+
+            isOpened = !isOpened;
+            backGround.SetActive(isOpened);
+
+            //backGround.SetActive(!backGround.activeSelf);
+            //if (backGround.activeSelf)
+            //{
+            //    UpdateInventory();
+            //}
         }
     }
 

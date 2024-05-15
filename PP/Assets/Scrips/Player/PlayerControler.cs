@@ -38,7 +38,6 @@ public class PlayerControler : MonoBehaviour
             isMoving = false;
         }
 
-        Debug.Log(inputVector);
     }
 
     public bool IsMoving()

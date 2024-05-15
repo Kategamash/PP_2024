@@ -388,8 +388,8 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 248768621}
   - {fileID: 1216715166}
+  - {fileID: 248768621}
   - {fileID: 497397494}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -517,6 +517,7 @@ MonoBehaviour:
   movingObject: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
   backGround: {fileID: 0}
+  isOpened: 0
 --- !u!1 &353219114
 GameObject:
   m_ObjectHideFlags: 0
@@ -848,7 +849,7 @@ MonoBehaviour:
   items: []
   gameObjShow: {fileID: 5035038250337884261, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
   InventoryMainObject: {fileID: 353219114}
-  maxCount: 18
+  maxCount: 17
   cam: {fileID: 519420031}
   es: {fileID: 729785415}
   currentID: -1
@@ -858,7 +859,8 @@ MonoBehaviour:
     count: 0
   movingObject: {fileID: 497397494}
   offset: {x: 1, y: -1, z: 0}
-  backGround: {fileID: 173041567}
+  backGround: {fileID: 1216715165}
+  isOpened: 0
 --- !u!114 &519420034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2017,6 +2019,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 353219115}
     m_Modifications:
+    - target: {fileID: 818214101885889965, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3985761888691653431, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2103,7 +2109,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5035038250337884261, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8107318699384517288, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
       propertyPath: m_AnchoredPosition.x
