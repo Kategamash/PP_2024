@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,11 +10,20 @@ public class GameInput : MonoBehaviour
 
     private PlayerInputAction playerInputAction;
 
+    public event EventHandler OnPlayerAttack;
+
     private void Awake()
     {
         Instance = this;
         playerInputAction = new PlayerInputAction();
         playerInputAction.Enable();
+
+        playerInputAction.Combat.Attack.started += PLayerAttack_started;
+    }
+
+    private void PLayerAttack_started(InputAction.CallbackContext obj)
+    {
+        OnPlayerAttack?.Invoke(this, EventArgs.Empty);
     }
 
     public Vector2 GetMovementVector()
