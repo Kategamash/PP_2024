@@ -15,6 +15,19 @@ public class HealthBar : MonoBehaviour
 
     void Update()
     {
+        bar.fillAmount = fill;
+        if(fill <= 1f && fill > 0.5f)
+        {
+            bar.color = Color.green;
+        }
+        if (fill <= 0.5f && fill >= 0.3f)
+        {
+            bar.color = Color.yellow;
+        }
+        if (fill < 0.3f && fill > 0.0f)
+        {
+            bar.color = Color.red;
+        }
         fill -= System.Convert.ToSingle(Time.deltaTime * 0.1);
         bar.fillAmount = fill;
     }
