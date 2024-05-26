@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class HealthBar : MonoBehaviour
@@ -15,6 +16,11 @@ public class HealthBar : MonoBehaviour
 
     void Update()
     {
+      /*  if (fill <= 0.0f)
+        {
+            Time.timeScale = 1f;
+            SceneManager.LoadScene("MenuScene");
+        }*/
         bar.fillAmount = fill;
         if(fill <= 1f && fill > 0.5f)
         {

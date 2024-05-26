@@ -750,7 +750,7 @@ MonoBehaviour:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
+  m_Maskable: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -1251,6 +1251,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1638362398384514044, guid: c9c51dc5dc8828b4a863fef1bbb8450b, type: 3}
+      propertyPath: coinCount
+      value: 
+      objectReference: {fileID: 2129988344}
     - target: {fileID: 3573104370815928216, guid: c9c51dc5dc8828b4a863fef1bbb8450b, type: 3}
       propertyPath: m_Name
       value: Coins (3)
@@ -1400,6 +1404,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1638362398384514044, guid: c9c51dc5dc8828b4a863fef1bbb8450b, type: 3}
+      propertyPath: coinCount
+      value: 
+      objectReference: {fileID: 2129988344}
     - target: {fileID: 3573104370815928216, guid: c9c51dc5dc8828b4a863fef1bbb8450b, type: 3}
       propertyPath: m_Name
       value: Coins (2)
@@ -2057,6 +2065,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1638362398384514044, guid: c9c51dc5dc8828b4a863fef1bbb8450b, type: 3}
+      propertyPath: coinCount
+      value: 
+      objectReference: {fileID: 2129988344}
     - target: {fileID: 3573104370815928216, guid: c9c51dc5dc8828b4a863fef1bbb8450b, type: 3}
       propertyPath: m_Name
       value: Coins (1)
@@ -2233,6 +2245,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1638362398384514044, guid: c9c51dc5dc8828b4a863fef1bbb8450b, type: 3}
+      propertyPath: coinCount
+      value: 
+      objectReference: {fileID: 2129988344}
     - target: {fileID: 3573104370815928216, guid: c9c51dc5dc8828b4a863fef1bbb8450b, type: 3}
       propertyPath: m_Name
       value: Coins (5)
@@ -2638,6 +2654,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1638362398384514044, guid: c9c51dc5dc8828b4a863fef1bbb8450b, type: 3}
+      propertyPath: coinCount
+      value: 
+      objectReference: {fileID: 2129988344}
     - target: {fileID: 3573104370815928216, guid: c9c51dc5dc8828b4a863fef1bbb8450b, type: 3}
       propertyPath: m_Name
       value: Coins (4)
@@ -2831,10 +2851,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 353219115}
     m_Modifications:
-    - target: {fileID: 818214101885889965, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3985761888691653431, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -2918,18 +2934,6 @@ PrefabInstance:
     - target: {fileID: 5035038250337884261, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
       propertyPath: m_Name
       value: Item
-      objectReference: {fileID: 0}
-    - target: {fileID: 5035038250337884261, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8107318699384517288, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -17.099998
-      objectReference: {fileID: 0}
-    - target: {fileID: 8107318699384517288, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 11.299999
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
