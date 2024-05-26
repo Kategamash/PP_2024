@@ -9,6 +9,10 @@ public class Bonus : MonoBehaviour
 
     public Text coinCount;
 
+    void Awake()
+    {
+        coinCount.text = PlayerPrefs.GetInt("coins").ToString();
+    }
     void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.gameObject.name == "Player")
