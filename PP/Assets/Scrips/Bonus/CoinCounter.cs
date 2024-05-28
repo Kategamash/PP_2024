@@ -14,6 +14,11 @@ public class CoinCounter : MonoBehaviour
         Instance = this;
     }
 
+    void Start()
+    {
+        CoinCounter.Instance.SetCoinCount(PlayerPrefs.GetInt("coins"));
+    }
+
     public void SetCoinCount(int coinCount)
     {
         Debug.Log(coinCount.ToString());

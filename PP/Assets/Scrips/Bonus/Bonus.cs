@@ -8,11 +8,6 @@ public class Bonus : MonoBehaviour
 {
     public string bonusName;
 
-    void Start()
-    {
-        CoinCounter.Instance.SetCoinCount(PlayerPrefs.GetInt("coins"));
-    }
-
     void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.gameObject.name == "Player")
