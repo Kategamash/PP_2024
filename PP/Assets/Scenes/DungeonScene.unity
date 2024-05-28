@@ -1110,7 +1110,7 @@ MonoBehaviour:
     img: {fileID: 21300000, guid: 6b33847892fa84b408c93446dd2121e5, type: 3}
   - id: 2
     name: Key
-    img: {fileID: 21300000, guid: 2871e41319a09324e8ed9f55b281c57e, type: 3}
+    img: {fileID: 21300000, guid: 5253d0c69a49bf44ab2f644841ca9595, type: 3}
 --- !u!1001 &529735878
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3146,12 +3146,32 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1003050248597218907, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
       propertyPath: m_Type
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1003050248597218907, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+      objectReference: {fileID: -4793930135710869741, guid: f7b37b91088c7d44b98c5e710477bd39, type: 3}
+    - target: {fileID: 2031482427804605721, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2031482427804605721, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2031482427804605721, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2031482427804605721, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2031482427804605721, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3985761888691653431, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -3235,6 +3255,10 @@ PrefabInstance:
     - target: {fileID: 5035038250337884261, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
       propertyPath: m_Name
       value: Item
+      objectReference: {fileID: 0}
+    - target: {fileID: 6210987902377626096, guid: 88cf769a1f05f594b9e6e3d1fd899f5c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
