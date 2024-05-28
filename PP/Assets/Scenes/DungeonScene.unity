@@ -536,10 +536,6 @@ GameObject:
   - component: {fileID: 339170881}
   - component: {fileID: 339170880}
   - component: {fileID: 339170883}
-<<<<<<< HEAD
-  - component: {fileID: 339170884}
-=======
->>>>>>> a8d3670bb5971c2b49d8caf58f07be7b4ddbb076
   m_Layer: 5
   m_Name: LoadButton
   m_TagString: Untagged
@@ -675,30 +671,6 @@ MonoBehaviour:
   m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
   m_EffectDistance: {x: 4, y: -4}
   m_UseGraphicAlpha: 1
-<<<<<<< HEAD
---- !u!95 &339170884
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 339170878}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 49b7361e3a5ca4148a43833a37e49d9b, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 2
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
-=======
->>>>>>> a8d3670bb5971c2b49d8caf58f07be7b4ddbb076
 --- !u!1 &352759427
 GameObject:
   m_ObjectHideFlags: 0
@@ -2843,10 +2815,6 @@ GameObject:
   - component: {fileID: 1638078082}
   - component: {fileID: 1638078081}
   - component: {fileID: 1638078084}
-<<<<<<< HEAD
-  - component: {fileID: 1638078085}
-=======
->>>>>>> a8d3670bb5971c2b49d8caf58f07be7b4ddbb076
   m_Layer: 5
   m_Name: ExitButton
   m_TagString: Untagged
@@ -2982,30 +2950,6 @@ MonoBehaviour:
   m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
   m_EffectDistance: {x: 4, y: -4}
   m_UseGraphicAlpha: 1
-<<<<<<< HEAD
---- !u!95 &1638078085
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1638078079}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: edc08ee637453d647b1896c5eabdf29c, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 2
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
-=======
->>>>>>> a8d3670bb5971c2b49d8caf58f07be7b4ddbb076
 --- !u!1 &1753152943
 GameObject:
   m_ObjectHideFlags: 0
