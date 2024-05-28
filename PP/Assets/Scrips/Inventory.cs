@@ -55,17 +55,12 @@ public class Inventory : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.I))
         {
-
             Debug.Log("I pressed");
-
-            isOpened = !isOpened;
-            backGround.SetActive(isOpened);
-
-            //backGround.SetActive(!backGround.activeSelf);
-            //if (backGround.activeSelf)
-            //{
-            //    UpdateInventory();
-            //}
+            backGround.SetActive(!backGround.activeSelf);
+            if (backGround.activeSelf)
+            {
+                UpdateInventory();
+            }
         }
     }
 

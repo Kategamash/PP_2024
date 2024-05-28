@@ -13,14 +13,8 @@ public class HealthBar : MonoBehaviour
     {
         fill = 1f;
     }
-
     void Update()
     {
-      /*  if (fill <= 0.0f)
-        {
-            Time.timeScale = 1f;
-            SceneManager.LoadScene("MenuScene");
-        }*/
         bar.fillAmount = fill;
         if(fill <= 1f && fill > 0.5f)
         {
@@ -34,7 +28,7 @@ public class HealthBar : MonoBehaviour
         {
             bar.color = Color.red;
         }
-        fill -= System.Convert.ToSingle(Time.deltaTime * 0.1);
-        bar.fillAmount = fill;
+        //fill -= System.Convert.ToSingle(Time.deltaTime * 0.1);
+        //bar.fillAmount = fill;
     }
 }
