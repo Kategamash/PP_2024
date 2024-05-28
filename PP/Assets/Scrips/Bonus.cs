@@ -8,12 +8,11 @@ public class Bonus : MonoBehaviour
 {
     public string bonusName;
 
-    public Text coinCount;
-
-    void Awake()
+    void Start()
     {
-        coinCount.text = PlayerPrefs.GetInt("coins").ToString();
+        CoinCounter.Instance.SetCoinCount(PlayerPrefs.GetInt("coins"));
     }
+
     void OnTriggerEnter2D(Collider2D collision)
     {
         if(collision.gameObject.name == "Player")
@@ -23,7 +22,7 @@ public class Bonus : MonoBehaviour
                 case "coin":
                     int coins = PlayerPrefs.GetInt("coins");
                     PlayerPrefs.SetInt("coins", coins + 1);
-                    coinCount.text = (coins + 1).ToString();
+                    CoinCounter.Instance.SetCoinCount(coins + 1);
                     Destroy(gameObject);
                     break;
             }

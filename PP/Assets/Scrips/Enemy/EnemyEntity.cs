@@ -8,6 +8,9 @@ public class EnemyEntity : MonoBehaviour
     [SerializeField] private int _maxHealth;
     private int _currentHealth;
 
+    [Header("DropLoot")]
+    public GameObject[] dropLoot;
+
     private void Start()
     {
         _currentHealth = _maxHealth;
@@ -24,8 +27,10 @@ public class EnemyEntity : MonoBehaviour
     {
         if (_currentHealth <= 0)
         {
+            Instantiate(dropLoot[Random.Range(0, dropLoot.Length)], transform.position, Quaternion.identity);
             Destroy(gameObject);
         }
+        
     }
 
 }

@@ -144,4 +144,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bonusName: coin
-  coinCount: {fileID: 0}
+  coinCount: {fileID: 4851617053371002837, guid: adba1579c5dd8ee40b74c8e40435681f, type: 3}

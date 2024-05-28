@@ -269,3 +269,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _maxHealth: 6
+  dropLoot:
+  - {fileID: 3573104370815928216, guid: c9c51dc5dc8828b4a863fef1bbb8450b, type: 3}
